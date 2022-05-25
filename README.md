@@ -1,1 +1,1 @@
-# glfw_practice
+# Glfw practice
